@@ -57,7 +57,7 @@ if (ua.includes("Locket")) {
                 {
                     title: "Nhớ follow insta @zitcuongg ✨",
                     body: "Một follow của bạn, một niềm vui của mình ❤️‍🩹",
-                    imageURL: "https://ibb.co/LDLyQVw7"
+                    imageURL: "https://ibb.co/4n3nfZNn"
                 }
             ],
             primary_button_title: "Up ảnh thôi nàooo !",
