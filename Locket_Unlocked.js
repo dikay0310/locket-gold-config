@@ -49,15 +49,15 @@ if (ua.includes("Locket")) {
             profile_banner: true
         }),
         feature_discovery_popup_config: JSON.stringify({
-            tag: "LOCKET GOLD BY EM MÍT",
+            tag: "LOCKET GOLD BY DIKAY",
             tag_gradient: true,
             tag_style: "gold_gradient",
             title: "Có Locket Gold rồi đó 😎",
             feature_set: [
                 {
-                    title: "Nhớ follow kênh tiktok @emmitcute6 ✨",
+                    title: "Nhớ follow kênh tiktok @memaybeo ✨",
                     body: "Một follow của bạn, một niềm vui của mình ❤️‍🩹",
-                    imageURL: "https://cdn.upanhlaylink.com/i/BHxWil8h.png"
+                    imageURL: "https://ibb.co/LDLyQVw7"
                 }
             ],
             primary_button_title: "Up ảnh thôi nàooo !",
